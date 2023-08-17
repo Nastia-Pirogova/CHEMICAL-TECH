@@ -742,7 +742,7 @@ section.order {
     }
 }
 
-@media screen and (min-width: 1920px) {
+@media screen and (min-width: 1240px) {
     .header-inner {
         display: flex;
         justify-content: center;
@@ -787,7 +787,7 @@ section.order {
     }
 
     .logo {
-        margin-right: 273px;
+        margin-right: 240px;
         font-size: 20px;
         letter-spacing: 0.9px;
         display: flex;
@@ -917,7 +917,7 @@ section.order {
     }
 
     .form-price-inner {
-        width: 174px;
+        width: 160px;
         font-size: 12px;
     }
 
